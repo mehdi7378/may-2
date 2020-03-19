@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>may_2.Comman</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+     <ProjectReference Include="..\may-2.Data\may-2.Data.csproj"/>
+  </ItemGroup>
+
+</Project>
